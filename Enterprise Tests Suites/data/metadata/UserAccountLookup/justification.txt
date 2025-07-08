@@ -1,0 +1,1 @@
+API looks up a user's account based on mobile number and email. It is the first step in the inquiry workflow.

@@ -1,0 +1,1 @@
+API fetches user's KYC and credit information. It requires an account ID from the UserAccountLookup API.

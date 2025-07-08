@@ -1,0 +1,1 @@
+API analyzes user transaction patterns to compute spending score for credit card recommendations.

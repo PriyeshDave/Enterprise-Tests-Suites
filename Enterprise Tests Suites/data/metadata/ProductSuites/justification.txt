@@ -1,0 +1,1 @@
+API provides a personalized credit card product suite based on user profile and transaction summary. It depends on UserProfile and TransactionSummary APIs.
